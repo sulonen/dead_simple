@@ -8,6 +8,9 @@ A simple, REST-compliant router for use with Node's http module.
 
 ## Example
 
+Here's a simple test server setup you can use while you're
+wiring things together:
+
     'use strict';
 
     const http = require('http');
