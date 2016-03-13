@@ -19,6 +19,7 @@ wiring things together:
     var router = new Router();
 
     router.get('/', (req, res) => {
+      // do stuff
       res.write('GET route hit');
       res.end();
     });
