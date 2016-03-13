@@ -1,6 +1,6 @@
 # dead_simple
 
-dead_simple is a small, REST-compliant router for use with Node's http module.
+A simple, REST-compliant router for use with Node's http module.
 
 ## Installation
 
