@@ -1,5 +1,5 @@
 {
-  "name": "dead-simple",
+  "name": "dead_simple",
   "version": "1.0.0",
   "description": "A simple REST-compliant router for use with Node's http module",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sulonen/dead-simple.git"
+    "url": "git+https://github.com/sulonen/dead_simple.git"
   },
   "keywords": [
     "node",
@@ -21,9 +21,9 @@
   "author": "Kevin Sulonen <kevin.sulonen@gmail.com> (http://sulonen.codes)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sulonen/dead-simple/issues"
+    "url": "https://github.com/sulonen/dead_simple/issues"
   },
-  "homepage": "https://github.com/sulonen/dead-simple#readme",
+  "homepage": "https://github.com/sulonen/dead_simple#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "chai-http": "^2.0.1",

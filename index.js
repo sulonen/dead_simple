@@ -1,10 +1,10 @@
 /*!
- * dead-simple
+ * dead_simple
  * Copyright (c) 2016 Kevin Sulonen
  * MIT Licensed
  */
 
 'use strict';
 
-module.exports = require('./lib/dead-simple.js');
+module.exports = require('./lib/dead_simple.js');
 
