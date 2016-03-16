@@ -9,7 +9,20 @@ A simple, REST-compliant router for use with Node's http module.
 ## Example
 
 Here's a simple test server setup you can use while you're
-wiring things together:
+wiring things together. This code will create an http server
+that listens on port 3000. Just copy this into a file called
+'server.js' (or whatever you prefer). You can then run the
+server with ```node server.js```.
+
+Then you can use a command-line utility (like curl) to test
+that your server is working. For example:
+    
+    curl -X GET localhost:3000
+
+should return 'GET route hit'.
+
+It should respond to all of the REST request methods with a
+similar message.
 
     'use strict';
 
